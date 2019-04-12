@@ -9,6 +9,8 @@ jupyterlab = "*"
 [packages]
 pandas = "*"
 geopy = "*"
+folium = "*"
+geopandas = "*"
 
 [requires]
 python_version = "3.7"
